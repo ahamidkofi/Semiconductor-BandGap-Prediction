@@ -1,0 +1,9 @@
+xgboost==3.4.1
+scikit-learn==1.9.1
+matminer==0.10.1
+pandas==2.3.3
+pymatgen==2026.10.24
+pymatgen-core==2026.10.31
+numpy==2.5.4
+joblib==1.6.0
+streamlit==1.67.0
