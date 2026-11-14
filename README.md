@@ -2,7 +2,7 @@
 
 Machine learning model that predicts the **experimental band gap** of an inorganic compound, including semiconductors, from its chemical formula alone, deployed as a Streamlit web app.
 
-**Live app:** YOUR-STREAMLIT-LINK
+**Live app:** https://semiconductor-bandgap-prediction.streamlit.app/
 
 Deployed by Hamid Kofi Abdul
 
