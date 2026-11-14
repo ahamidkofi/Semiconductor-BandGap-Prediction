@@ -107,5 +107,6 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matminer, pymatgen, Streamlit.
 - L. Ward et al. *Matminer: An open source toolkit for materials data mining.* Comput. Mater. Sci. 2018.
 
 ## Author
+Hamid Kofi Abdul
 
 
